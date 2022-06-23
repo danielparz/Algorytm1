@@ -6,8 +6,7 @@ namespace Algorytm1
     {
         static void Main(string[] args)
         {
-            //string baseString = args[0].ToString();
-            string baseString = "abcd";
+            string baseString = args[0].ToString();
             List<string> list = new List<string>();
 
             Console.WriteLine("Wypisz wszystkie podciągi podanego ciągu:");
